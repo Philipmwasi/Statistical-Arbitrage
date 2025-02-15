@@ -16,3 +16,7 @@ All the libraries mentioned above are open source and readily available from the
 
 
 The proposed approach will be a robust application of statistical arbitrage within the cryptocurrency space. However, since the strategy relies on historical data, it might not be guaranteed to perform in a similar manner under future prevailing market conditions.
+
+## Licensing
+This project is stricly for academic purposes and as such should not be reproduced without the consent all of the contributors.
+
