@@ -1,4 +1,4 @@
-**PHILIP MWASI | ISMAEL KIPKOECH | TERESSA NYAKIAMO | VIOLET MOMANYI | SAMIRRAH MOHAMMED**
+**PHILIP MWASI | ISMAEL KIPKOECH | TERESA NYAKIAMO | VIOLET MOMANYI | SAMIRRAH MOHAMMED**
 # ENSEMBLING FOR STATISTICAL ARBITRAGE IN CRYPTOCURRENCY MARKETS
 - In this project, we propose an ensemble algorithm comprising of three machine learning models: logistic regression, random forest and long short-term memory (LSTM) networks. Logistic regression facilitates baseline predictions, random forest enhances model stability through ensemble predictions (being part of the ensemble models family), and LSTM networks address sequential dependencies in price movements. Combining their outputs, the ensemble aims to increase predictive accuracy of the overall result.
 
@@ -19,5 +19,5 @@ All the libraries mentioned above are open source and readily available from the
 The proposed approach will be a robust application of statistical arbitrage within the cryptocurrency space. However, since the strategy relies on historical data, it might not be guaranteed to perform in a similar manner under future prevailing market conditions.
 
 ## Licensing
-This project is strictly for academic purposes and as such should not be reproduced without the consent of all the contributors.
+This project is strictly for academic purposes and as such should not be reproduced without the consent of all the contributors involved.
 
